@@ -1,33 +1,36 @@
-### Hi there, I'm Raihan Pambagyo Fadhila! 👋
+### Hi there, I'm Carrick Cheah! 👋
 
-I'm an **Informatics Engineering** professional with a strong focus on **Natural Language Processing (NLP)**, **Machine Learning**, and **Full-Stack Web Development**. I am passionate about bridging the gap between research-grade AI and scalable production applications.
+I'm an **AI/ML Engineer** based in Kuala Lumpur, Malaysia, specializing in **LLM-powered production systems** and **manufacturing optimization**. I focus on delivering scalable, enterprise-grade AI solutions that drive measurable operational efficiency.
 
 ---
 
 ### 🚀 About Me
-- 🔬 **Researcher:** Conducted advanced NLP research at Universitas Gunadarma, focusing on **Question Answering Systems** using **BERT**, **GPT**, and Seq2Seq architectures.
-- 👨‍💻 **Full-Stack Developer:** Alumnus of **SYNRGY Academy Batch V**, where I contributed to developing **"KOSANKU"**, a full-stack platform for boarding house management.
-- 🎓 **Education:** Bachelor's degree in Informatics Engineering from **Universitas Gunadarma**.
-- 💡 **Interests:** High-performance computing (NVIDIA DGX A100), Sentiment Analysis, and building intuitive user experiences.
+- 🧠 **AI/ML Engineering:** Specialized in **LLMops**, **RAG systems**, and **Agentic AI**.
+- 🏭 **Manufacturing Optimization:** Proven track record of improving operational efficiency by over 40% through automated BI and AI implementations.
+- 📱 **Mobile AI:** Developer of **Chess-GPT**, an on-device Small Language Model (SLM) for sub-second responses on mobile.
+- 🔬 **Subject Matter Expertise:** Deep background in Accountancy and complex problem-solving.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **AI/ML:** Python, BERT, GPT, Transformers, Sentiment Analysis (Naive Bayes), SEMMA Methodology
-- **Web Development:** JavaScript, Node.js, React.js, Redux, HTML/SCSS, Bootstrap
-- **Databases:** SQL, Data Analysis
-- **Tools:** Git, GitHub, Vercel, NVIDIA DGX A100
+- **AI/ML:** LLMops, RAG, Model Fine-tuning, Small Language Models (SLMs), YOLOv11, ByteTrack
+- **Languages:** Python (Expert), SQL
+- **Frameworks:** Hugging Face, XGBoost, Transformers, LiquidAI LFM-VL
+- **Production AI:** Feature Stores, API Development, Real-time Stream Processing
 
 ---
 
-### 📈 Current Focus
-I am currently exploring the optimization of large language models for Indonesian-specific contexts and enhancing my expertise in robust full-stack architectures.
+### 📉 Featured Projects
+- 📄 **Agentic-Document-Extraction:** Automated 95%+ accurate bulk document processing using multi-agent AI.
+- 💹 **Sentiment-LLM:** Real-time market sentiment analysis processing news APIs to generate trading signals.
+- 📦 **Real-time Box Counter:** Persistent conveyor belt object tracking using YOLOv11.
 
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [Raihan Pambagyo Fadhila](https://www.linkedin.com/in/raihan-pambagyo-fadhila/)
+- **LinkedIn:** [Carrick Cheah](https://www.linkedin.com/in/carrickcheah/)
+- **Email:** carrick113@gmail.com
 
 ---
 
-*"Turning complex data into intelligent solutions."*
+*"Scaling intelligence to transform industries."*
